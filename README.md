@@ -46,7 +46,6 @@ The model demonstrates reliable predictive performance, with an MSE of 0.00028. 
 - **`stock_price_predictor.ipynb`**: Main Jupyter Notebook containing the code and results.
 - **`requirements.txt`**: List of dependencies for the project.
 - **`data/`**: Directory for storing processed datasets.
-- **`models/`**: Directory for saving trained models.
 
 ## Future Enhancements
 - Incorporating additional features such as market sentiment analysis.
